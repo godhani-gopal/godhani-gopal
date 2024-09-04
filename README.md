@@ -14,8 +14,8 @@ I'm interested in:
 
 ## 🌱 Currently Learning
 - Advanced techniques in **Java** and **Spring Boot**
-- AI/ML integration into full-stack applications
-- Building robust microservices and exploring cloud-native solutions
+- AI integration into full-stack applications
+- Building apps and exploring various technologies
 
 ## 💞️ Looking to Collaborate On
 - Open-source projects in **Java**, **Spring Boot**, **React**, and **Python**
